@@ -71,7 +71,7 @@
  ![Screenshot_16](https://user-images.githubusercontent.com/75700701/227311624-14e42a78-d490-40e0-a062-3fdf5baa25cf.png)
 
 
-Задание 3
+Задание 3 + Добавил сразу сюда Задание 2
 
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
 
@@ -86,6 +86,15 @@
 Требования к результату
 
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
+ 
+ 
+![Screenshot_19](https://user-images.githubusercontent.com/75700701/227313675-1ab075ac-274c-449b-b0f2-4bcb80ffa672.png)
+
+
+![Screenshot_20](https://user-images.githubusercontent.com/75700701/227313982-4717771b-beb0-454c-b83b-c0f15320213d.png)
+
+
+ 
 
  
  
