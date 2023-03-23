@@ -114,6 +114,10 @@
 Требования к результату
 
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+ 
+ 
+ 
+![Screenshot_23](https://user-images.githubusercontent.com/75700701/227317212-132c1209-2d3f-42bb-bcf6-d95f8713a7b8.png)
 
  
  
