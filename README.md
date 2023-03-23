@@ -62,3 +62,25 @@
  
  Ответ:
  
+ ![Screenshot_17](https://user-images.githubusercontent.com/75700701/227310907-4d9320bc-c01c-48d5-ae8f-cf1c2b3e65bc.png)
+ 
+ 
+ ![Screenshot_15](https://user-images.githubusercontent.com/75700701/227311150-1627a029-638b-442f-b7c7-fdf4a496e4d1.png)
+ 
+ 
+ ![Screenshot_16](https://user-images.githubusercontent.com/75700701/227311624-14e42a78-d490-40e0-a062-3fdf5baa25cf.png)
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
